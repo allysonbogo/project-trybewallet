@@ -7,6 +7,21 @@
 #### ⏳ Projeto desenvolvido durante o curso de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/)
 
 ---
+### ⚙️ Como executar:
+Clone o repositório em uma pasta de preferência
+```
+git clone git@github.com:allysonbogo/project-trybewallet.git
+```
+Entre na pasta que você acabou de clonar, e instale as dependências
+```
+npm install
+```
+Para rodar o projeto no navegador, basta utilizar o codigo abaixo 
+```
+npm start
+```
+
+---
 ### 📝 Proposta:
 A proposta deste projeto foi criar uma carteira de controle de gastos com conversor de moedas. A pessoa usuária pode adicionar, remover ou editar gastos, visualizar uma tabela com as despesas adicionadas bem como o total de gastos convertidos para o Real. 
 
